@@ -3,6 +3,8 @@
 Lists a few of my bash files (or specific commit changes to them) in the past month or two, in order show showcase my growth and aquired learning with bash.
 
 
+# My learning curve over time (with references to code and timestamps)
+
 Jan 19, 2024 - [Build script from DogDisplayForC++ project](https://github.com/mittons/DogDisplayForCpp/blob/ac6c71918f26355d47a14db85fbb8d74e8c6c469/build_script.sh)
  - Basic sequence, small.
 
